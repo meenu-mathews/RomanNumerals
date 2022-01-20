@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class RomanNumerals{
+
+public HashMap<char,Integer>
+public int userInput
+public int i
+
+public String getUserInput(int)
+
+}
+
+class RomanNumeralsTestClass {
+public void romanNumberI()
+}
+@enduml
