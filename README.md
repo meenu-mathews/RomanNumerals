@@ -9,6 +9,6 @@ This is a repository to write a function to convert from normal numbers to Roman
      7 --> VII
 
 ## Pre-Requisites
--Java SE Development Kit 11
--Maven
+- Java SE Development Kit 11
+- Maven
 
